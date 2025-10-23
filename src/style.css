@@ -7,6 +7,8 @@
 body {
   margin: 60px auto;
   max-width: 800px;
+  background-color: #f7f9fa;
+  font-family: "Poppins", sans-serif;
 }
 
 h1,
@@ -65,12 +67,12 @@ p.app {
   color: #61e79d;
 }
 
-.about-link {
+.portfolio-link {
   color: var(--primary-color);
   border: 1px solid var(--primary-color);
 }
 
-.about-link:hover {
+.portfolio-link:hover {
   color: #61e79d;
   border: 1px solid #61e79d;
 }
